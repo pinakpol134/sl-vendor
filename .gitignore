@@ -1,0 +1,5 @@
+node_modules
+vendor.db
+.env
+npm-debug.log
+.DS_Store
