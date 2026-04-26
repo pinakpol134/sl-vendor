@@ -15,8 +15,8 @@ const PAYEE = "d4c90b9d-58ca-4b07-8a54-fd30cd4c3281";
 const transporter = nodemailer.createTransport({
     service: "gmail",
     auth: {
-        user: "YOUR_EMAIL@gmail.com",
-        pass: "YOUR_APP_PASSWORD"
+        user: "pinakpol134@gmail.com",
+        pass: "xhkc cvkc oxfl lbcx"
     }
 });
 
