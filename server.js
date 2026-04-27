@@ -92,7 +92,7 @@ app.post("/order", (req, res) => {
     // ---------------- EMAIL NOTIFICATION (STEP B) ----------------
     transporter.sendMail({
         from: "SL Vendor System",
-        to: "YOUR_EMAIL@gmail.com",
+        to: "pinakpol134@gmail.com",
         subject: "🛒 New Second Life Order",
         text: `
 New Order Received:
